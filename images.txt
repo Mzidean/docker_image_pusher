@@ -1,2 +1,2 @@
 makeplane/plane
-kuaifan/dootask
+kuaifan/dootask:pro
